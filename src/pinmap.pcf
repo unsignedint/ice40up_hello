@@ -3,6 +3,6 @@ set_io o_red_n 41
 set_io o_blue_n 39
 set_io o_green_n 40
 # debug
-set_io o_heartbeat 23
+set_io o_heartbeat 4
 # external clock
 set_io i_clk_12 35
